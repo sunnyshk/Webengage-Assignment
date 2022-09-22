@@ -1,0 +1,34 @@
+user_id,first_name,last_name,phone,email,gender,age_category,birthdate,country,reg_date
+CUST-1,Danaí,Al hussain,123456789,abc@emil.com,Mrs,18-25, 2021-06-10,Saudi Arabia, 2021-06-10
+CUST-2,Nika,N,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,Azerbaijan, 2021-06-10
+CUST-3,Tahereh,Mollari,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,Iran, 2021-06-10
+CUST-4,Abdullah,Abdullah,123456789,abc@emil.com,Mr,26-35, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-5,Sharon,Sh,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,Kenya, 2021-06-10
+CUST-6,Alya,Hamad,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-7,Souad,Julie,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,Morocco, 2021-06-10
+CUST-8,Miu,Miu,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,Vietnam, 2021-06-10
+CUST-9,Janet,Abadi,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,Ethiopia, 2021-06-10
+CUST-10,Moza,Saeed,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-11,Jowhara,Alghamdi,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,Saudi Arabia, 2021-06-10
+CUST-12,Seham,Alameddine,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,United States of America, 2021-06-10
+CUST-13,Baldes,B,123456789,abc@emil.com,Mr,26-35, 2021-06-10,Latvia, 2021-06-10
+CUST-14,Jawaher,Ali,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-15,Siba,Halawa,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,Jordan, 2021-06-10
+CUST-16,Natacha,Y,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,Russia, 2021-06-10
+CUST-17,Noura,Battayor,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,Saudi Arabia, 2021-06-10
+CUST-18,Amina,A,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-19,Ace,Foster,123456789,abc@emil.com,Mr,26-35, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-20,Lamia,Shadier,123456789,abc@emil.com,Mrs,46-60, 2021-06-10,Saudi Arabia, 2021-06-10
+CUST-21,Hind,Alhammadi,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-22,Ahmed,Alshamsi,123456789,abc@emil.com,Mr,36-45, 2021-03-29,United Arab Emirates, 2021-03-29
+CUST-23,Kholood,Alshamsi,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-24,Hanna,Haddad,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,, 2021-06-10
+CUST-25,Amal,A,123456789,abc@emil.com,Mrs,36-45, 2021-03-29,Morocco, 2021-03-29
+CUST-26,Zari,Zari,123456789,abc@emil.com,Mr,26-35, 2021-06-10,, 2021-06-10
+CUST-27,Khalifa,Alfalasi,123456789,abc@emil.com,Mr,26-35, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-28,Adita,Komba,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,India, 2021-06-10
+CUST-29,Moza,Khatan,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,United Arab Emirates, 2021-06-10
+CUST-30,Ameena,Alaoui,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,Morocco, 2021-06-10
+CUST-31,Juliet,Kebenei,123456789,abc@emil.com,Mrs,26-35, 2021-06-10,Kenya, 2021-06-10
+CUST-32,Ashley,Silva,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,United States of America, 2021-06-10
+CUST-33,Rasha,Srour,123456789,abc@emil.com,Mrs,36-45, 2021-06-10,Lebanon, 2021-06-10
